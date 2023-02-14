@@ -6,8 +6,8 @@ import sys
 
 
 
-class HiQHeader(QHeaderView):
-    pass #To be implemented
+class CustomHeader(QHeaderView):
+    pass #To be implemented. Doesn't have to inherit QHeaderView if there is a better way
 
 class MyTable(QTableWidget):
 
