@@ -19,6 +19,6 @@
 - Data sets are defined typically as dictionary.See the example python file.
 - See main() in hierarchicalqheader.py for typical data and an interface.
 - Data sets do not need to be reorganized using drag and drop.
-- Resizing the columns should be possible.
+- There should be no nasty side effects. e.g. Resizing the columns should be possible, sorting based on a column should still be possible.
 
 
